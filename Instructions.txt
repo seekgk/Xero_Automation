@@ -6,7 +6,8 @@ These two programs can be executed as a Java application. We need to have seleni
 
 I have also created a executable jar file which is a combination of two tasks. User can also execute jar file to see the results.
 
-Note: If page is loaded slowing because of connectivity the script will result in failure. Please re run the program oe jar file again.
+Note: If page is loaded slowly because of connectivity the script will result in failure. Please re run the program oe jar file again.
+2. Don't right click and select save as , it will download file correctly. eg: jar file. Click on the file and then download in next page.
 
 
 
