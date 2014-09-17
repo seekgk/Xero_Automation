@@ -1,0 +1,18 @@
+Task 1 - Workflow: This is coded in menuhandling.java 
+Task2 - Repeating Invoice: This is coded in repeating_invoice.java
+This test scripts will be exeuted in Firefox version 32.0.1
+
+These two programs can be executed as a Java application. We need to have selenium server jar file included in the class path.
+
+I have also created a executable jar file which is a combination of two tasks. User can also execute jar file to see the results.
+
+Note: If page is loaded slowing because of connectivity the script will result in failure. Please re run the program oe jar file again.
+
+
+
+
+
+
+
+
+
